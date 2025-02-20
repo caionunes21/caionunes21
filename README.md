@@ -1,16 +1,42 @@
-## Hi there 👋
+### Caio Nunes
 
-<!--
-**caionunes21/caionunes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Economia com uma paixão por macroeconomia, análise de dados e mercado financeiro. Ex-membro da Liga Financeira da FECAP do núcleo de Macro Research.  Atualmente, possuo a certificação **CPA-20** da ANBIMA, que me proporcionou uma base sólida em produtos e serviços financeiros, além de uma compreensão aprofundada do mercado de capitais.
 
-Here are some ideas to get you started:
+#### 🛠️ Habilidades Técnicas:
+- **Python**: Experiência em análise de dados com bibliotecas como Pandas, NumPy, Matplotlib, Stick-Learn e Seaborn.
+- **SQL**: Conhecimento de linguagem DDL e DML para criação de estruturas e manipulação de dados para bancos de dados relacionais.
+- **Análise de Dados**: Capacidade de transformar dados em insights valiosos para tomada de decisões.
+- **Ferramentas Financeiras**: Familiaridade com conceitos de valuation, risco e gestão de carteiras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📂 Projetos Destacados:
+Aqui no GitHub, você encontrará alguns dos meus projetos, que incluem:
+- Regressões utilizando linguagem Python e software de econometria.
+- Desenvolvimento de dashboards interativos para visualização de dados.
+- Consultas SQL para extração e manipulação de grandes volumes de dados.
+
+#### 📜 Certificações:
+- **CPA-20** (ANBIMA) - Certificação Profissional ANBIMA Série 20.
+
+#### 🎯 Objetivos:
+Estou sempre buscando expandir meus conhecimentos em ciência de dados, machine learning e finanças quantitativas. Meu objetivo é unir minha formação em Economia com minhas habilidades técnicas para contribuir em projetos inovadores e desafiadores.
+
+#### 📩 Vamos Conectar!
+Se você compartilha dos mesmos interesses ou tem algum projeto em que possamos colaborar, sinta-se à vontade para entrar em contato. Vamos trocar ideias e construir algo incrível juntos!
+
+- **LinkedIn**: [Seu LinkedIn]
+- **E-mail**: caioalessnunes@gmail.com
+
+---
+
+### 🚀 Projetos em Destaque:
+1. **Regressões Lineares com Python**  
+   Descrição: Utilização de Python para regressões lineares, identificação de tendências e criação de visualizações interativas.  
+   [Link para o Repositório]
+
+2. **Dashboard de Indicadores Econômicos**  
+   Descrição: Desenvolvimento de um dashboard para monitoramento de indicadores econômicos em tempo real.  
+   [Link para o Repositório]
+
+3. **Consultas SQL para Análise de Dados**  
+   Descrição: Exemplos de consultas SQL complexas para extração e análise de dados em bancos relacionais.  
+   [Link para o Repositório]
