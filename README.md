@@ -23,7 +23,7 @@ Estou sempre buscando expandir meus conhecimentos em ciência de dados, machine 
 #### 📩 Vamos Conectar!
 Se você compartilha dos mesmos interesses ou tem algum projeto em que possamos colaborar, sinta-se à vontade para entrar em contato. Vamos trocar ideias e construir algo incrível juntos!
 
-- **LinkedIn**: [Seu LinkedIn]
+- **LinkedIn**: www.linkedin.com/in/caionunes11
 - **E-mail**: caioalessnunes@gmail.com
 
 ---
