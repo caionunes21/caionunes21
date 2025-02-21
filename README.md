@@ -32,7 +32,7 @@ Se você compartilha dos mesmos interesses ou tem algum projeto em que possamos 
 ### 🚀 Projetos em Destaque:
 1. **Regressões Lineares com Python**  
    Descrição: Utilização de Python para regressões lineares, identificação de tendências e criação de visualizações interativas.  
-   [Link para o Repositório]
+   
 
 2. **Dashboard de Indicadores Econômicos**  
    Descrição: Desenvolvimento de um dashboard para monitoramento de indicadores econômicos em tempo real.  
