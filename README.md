@@ -1,6 +1,6 @@
 ### Caio Nunes
 
-Sou estudante de Economia com uma paixão por macroeconomia, análise de dados e mercado financeiro. Ex-membro da Liga Financeira da FECAP do núcleo de Macro Research.  Atualmente, possuo a certificação **CPA-20** da ANBIMA, que me proporcionou uma base sólida em produtos e serviços financeiros, além de uma compreensão aprofundada do mercado de capitais.
+Sou estudante de Economia e ex-membro da Liga Financeira da FECAP, atuando no núcleo de Macro Research. Com uma paixão por macroeconomia, análise de dados e mercado financeiro, possuo a certificação **CPA-20** da ANBIMA que me proporcionou uma base sólida em produtos e serviços financeiros, além de uma compreensão aprofundada do mercado de capitais.
 
 #### 🛠️ Habilidades Técnicas:
 - **Python**: Experiência em análise de dados com bibliotecas como Pandas, NumPy, Matplotlib, Stick-Learn e Seaborn.
