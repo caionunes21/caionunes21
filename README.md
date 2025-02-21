@@ -4,7 +4,7 @@ Sou estudante de Economia e ex-membro da Liga Financeira da FECAP, atuando no n�
 
 #### 🛠️ Habilidades Técnicas:
 - **Python**: Experiência em análise de dados com bibliotecas como Pandas, NumPy, Matplotlib, Stick-Learn e Seaborn.
-- **SQL**: Conhecimento de linguagem DDL e DML para criação de estruturas e manipulação de dados para bancos de dados relacionais.
+- **SQL**: Conhecimento de linguagem DDL e DML para criação de estruturas e manipulação de dados.
 - **Análise de Dados**: Capacidade de transformar dados em insights valiosos para tomada de decisões.
 - **Ferramentas Financeiras**: Familiaridade com conceitos de valuation, risco e gestão de carteiras.
 
