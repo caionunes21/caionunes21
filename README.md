@@ -16,7 +16,7 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, que incluem:
 
 #### 📜 Certificações:
 - **CPA-20** (ANBIMA) - Certificação Profissional ANBIMA Série 20.
-- **Programação em Banco de Dados** - SENAI.
+- **Linguagem SQL para Banco de Dados** - SENAI.
 
 #### 🎯 Objetivos:
 Estou sempre buscando expandir meus conhecimentos em ciência de dados, machine learning e finanças quantitativas. Meu objetivo é unir minha formação em Economia com minhas habilidades técnicas para contribuir em projetos inovadores e desafiadores.
