@@ -31,17 +31,19 @@ Se você compartilha dos mesmos interesses ou tem algum projeto em que possamos 
 
 ### 🚀 Projetos em Destaque:
 1. **Regressões Lineares com Python**  
-   Descrição: Utilização de Python para regressões lineares, identificação de tendências e criação de visualizações interativas.  
+   Descrição: Utilização de Python para regressões lineares, identificação de tendências e criação de visualizações interativas.
+   https://github.com/caionunes21/regress-o_linear.git 
    
 
-2. **Dashboard de Indicadores Econômicos**  
+3. **Dashboard de Indicadores Econômicos**  
    Descrição: Desenvolvimento de um dashboard para monitoramento de indicadores econômicos em tempo real.  
    [Link para o Repositório]
 
-3. **Consultas SQL para Análise de Dados**  
+4. **Consultas SQL para Análise de Dados**  
    Descrição: Exemplos de consultas SQL complexas para extração e análise de dados em bancos relacionais.  
    [Link para o Repositório]
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caionunes11)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil-twitter)
+## Conecte-se comigo no LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caionunes11)
