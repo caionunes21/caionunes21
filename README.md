@@ -41,3 +41,7 @@ Se você compartilha dos mesmos interesses ou tem algum projeto em que possamos 
 3. **Consultas SQL para Análise de Dados**  
    Descrição: Exemplos de consultas SQL complexas para extração e análise de dados em bancos relacionais.  
    [Link para o Repositório]
+
+
+   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
