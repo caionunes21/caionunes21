@@ -10,7 +10,7 @@ Sou estudante de Economia e ex-membro da Liga Financeira da FECAP, atuando no n�
 
 #### 📂 Projetos Destacados:
 Aqui no GitHub, você encontrará alguns dos meus projetos, que incluem:
-- Regressões utilizando linguagem Python e software de econometria.
+- Regressões utilizando linguagem R, Python e Gretl.
 - Desenvolvimento de dashboards interativos para visualização de dados.
 - Consultas SQL para extração e manipulação de grandes volumes de dados.
 
